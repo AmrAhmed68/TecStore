@@ -100,7 +100,7 @@ const Checkout = () => {
                                     userId: userId,
                                     userName: userName,
                                     userEmail: userEmail,
-                                    userPhone: userPhone, // Include phone number
+                                    userPhone: userPhone,
                                     address: address,
                                     productName: item.name,
                                     price: item.price,
